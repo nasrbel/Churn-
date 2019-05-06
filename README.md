@@ -12,7 +12,7 @@ Customer account information: How long has he been a customer ? Contract, paymen
 method, paperless billing, monthly charges, and total charges.
 Demographic information about customers: gender, age range, and has he partners and
 dependants ?
-You can find more information about used Data on Kaggle: Link to Data on Kaggle
+You can find more information about used Data on Kaggle: Link to Data on Kaggle 
 • CustomerID: The Customer ID.
 • Gender : Whether the customer is a male or a female.
 • SeniorCitizen: Whether the customer is a senior citizen or not (1, 0).
